@@ -1,0 +1,14 @@
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning10\Learning10\bin\Debug\net9.0\Learning10.exe
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning10\Learning10\bin\Debug\net9.0\Learning10.deps.json
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning10\Learning10\bin\Debug\net9.0\Learning10.runtimeconfig.json
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning10\Learning10\bin\Debug\net9.0\Learning10.dll
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning10\Learning10\bin\Debug\net9.0\Learning10.pdb
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning10\Learning10\obj\Debug\net9.0\Learning10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning10\Learning10\obj\Debug\net9.0\Learning10.AssemblyInfoInputs.cache
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning10\Learning10\obj\Debug\net9.0\Learning10.AssemblyInfo.cs
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning10\Learning10\obj\Debug\net9.0\Learning10.csproj.CoreCompileInputs.cache
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning10\Learning10\obj\Debug\net9.0\Learning10.dll
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning10\Learning10\obj\Debug\net9.0\refint\Learning10.dll
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning10\Learning10\obj\Debug\net9.0\Learning10.pdb
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning10\Learning10\obj\Debug\net9.0\Learning10.genruntimeconfig.cache
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning10\Learning10\obj\Debug\net9.0\ref\Learning10.dll

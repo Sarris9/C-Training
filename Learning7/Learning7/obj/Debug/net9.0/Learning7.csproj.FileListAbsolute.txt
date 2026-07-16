@@ -1,0 +1,15 @@
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning7\Learning7\bin\Debug\net9.0\Learning7.exe
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning7\Learning7\bin\Debug\net9.0\Learning7.deps.json
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning7\Learning7\bin\Debug\net9.0\Learning7.runtimeconfig.json
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning7\Learning7\bin\Debug\net9.0\Learning7.dll
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning7\Learning7\bin\Debug\net9.0\Learning7.pdb
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning7\Learning7\obj\Debug\net9.0\Learning7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning7\Learning7\obj\Debug\net9.0\Learning7.AssemblyInfoInputs.cache
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning7\Learning7\obj\Debug\net9.0\Learning7.AssemblyInfo.cs
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning7\Learning7\obj\Debug\net9.0\Learning7.csproj.CoreCompileInputs.cache
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning7\Learning7\obj\Debug\net9.0\Learning7.dll
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning7\Learning7\obj\Debug\net9.0\refint\Learning7.dll
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning7\Learning7\obj\Debug\net9.0\Learning7.pdb
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning7\Learning7\obj\Debug\net9.0\Learning7.genruntimeconfig.cache
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning7\Learning7\obj\Debug\net9.0\ref\Learning7.dll
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning7\Learning7\obj\Debug\net9.0\Learning7.sourcelink.json

@@ -1,0 +1,4 @@
+C:\Users\george.sarris\Desktop\Docker Test\Learning2\obj\Debug\net9.0\Learning@.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\george.sarris\Desktop\Docker Test\Learning2\obj\Debug\net9.0\Learning@.AssemblyInfoInputs.cache
+C:\Users\george.sarris\Desktop\Docker Test\Learning2\obj\Debug\net9.0\Learning@.AssemblyInfo.cs
+C:\Users\george.sarris\Desktop\Docker Test\Learning2\obj\Debug\net9.0\Learning@.csproj.CoreCompileInputs.cache

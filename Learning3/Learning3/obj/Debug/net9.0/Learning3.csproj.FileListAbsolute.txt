@@ -1,0 +1,14 @@
+C:\Users\george.sarris\Desktop\Docker Test\Learning3\Learning3\bin\Debug\net9.0\Learning3.exe
+C:\Users\george.sarris\Desktop\Docker Test\Learning3\Learning3\bin\Debug\net9.0\Learning3.deps.json
+C:\Users\george.sarris\Desktop\Docker Test\Learning3\Learning3\bin\Debug\net9.0\Learning3.runtimeconfig.json
+C:\Users\george.sarris\Desktop\Docker Test\Learning3\Learning3\bin\Debug\net9.0\Learning3.dll
+C:\Users\george.sarris\Desktop\Docker Test\Learning3\Learning3\bin\Debug\net9.0\Learning3.pdb
+C:\Users\george.sarris\Desktop\Docker Test\Learning3\Learning3\obj\Debug\net9.0\Learning3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\george.sarris\Desktop\Docker Test\Learning3\Learning3\obj\Debug\net9.0\Learning3.AssemblyInfoInputs.cache
+C:\Users\george.sarris\Desktop\Docker Test\Learning3\Learning3\obj\Debug\net9.0\Learning3.AssemblyInfo.cs
+C:\Users\george.sarris\Desktop\Docker Test\Learning3\Learning3\obj\Debug\net9.0\Learning3.csproj.CoreCompileInputs.cache
+C:\Users\george.sarris\Desktop\Docker Test\Learning3\Learning3\obj\Debug\net9.0\Learning3.dll
+C:\Users\george.sarris\Desktop\Docker Test\Learning3\Learning3\obj\Debug\net9.0\refint\Learning3.dll
+C:\Users\george.sarris\Desktop\Docker Test\Learning3\Learning3\obj\Debug\net9.0\Learning3.pdb
+C:\Users\george.sarris\Desktop\Docker Test\Learning3\Learning3\obj\Debug\net9.0\Learning3.genruntimeconfig.cache
+C:\Users\george.sarris\Desktop\Docker Test\Learning3\Learning3\obj\Debug\net9.0\ref\Learning3.dll

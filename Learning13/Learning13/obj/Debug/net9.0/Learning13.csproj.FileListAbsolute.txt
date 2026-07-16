@@ -1,0 +1,15 @@
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning13\Learning13\bin\Debug\net9.0\Learning13.exe
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning13\Learning13\bin\Debug\net9.0\Learning13.deps.json
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning13\Learning13\bin\Debug\net9.0\Learning13.runtimeconfig.json
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning13\Learning13\bin\Debug\net9.0\Learning13.dll
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning13\Learning13\bin\Debug\net9.0\Learning13.pdb
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning13\Learning13\obj\Debug\net9.0\Learning13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning13\Learning13\obj\Debug\net9.0\Learning13.AssemblyInfoInputs.cache
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning13\Learning13\obj\Debug\net9.0\Learning13.AssemblyInfo.cs
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning13\Learning13\obj\Debug\net9.0\Learning13.csproj.CoreCompileInputs.cache
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning13\Learning13\obj\Debug\net9.0\Learning13.sourcelink.json
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning13\Learning13\obj\Debug\net9.0\Learning13.dll
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning13\Learning13\obj\Debug\net9.0\refint\Learning13.dll
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning13\Learning13\obj\Debug\net9.0\Learning13.pdb
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning13\Learning13\obj\Debug\net9.0\Learning13.genruntimeconfig.cache
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning13\Learning13\obj\Debug\net9.0\ref\Learning13.dll

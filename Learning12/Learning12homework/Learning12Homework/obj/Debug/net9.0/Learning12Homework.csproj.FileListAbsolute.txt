@@ -1,0 +1,15 @@
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning12\Learning12homework\Learning12Homework\bin\Debug\net9.0\Learning12Homework.exe
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning12\Learning12homework\Learning12Homework\bin\Debug\net9.0\Learning12Homework.deps.json
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning12\Learning12homework\Learning12Homework\bin\Debug\net9.0\Learning12Homework.runtimeconfig.json
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning12\Learning12homework\Learning12Homework\bin\Debug\net9.0\Learning12Homework.dll
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning12\Learning12homework\Learning12Homework\bin\Debug\net9.0\Learning12Homework.pdb
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning12\Learning12homework\Learning12Homework\obj\Debug\net9.0\Learning12Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning12\Learning12homework\Learning12Homework\obj\Debug\net9.0\Learning12Homework.AssemblyInfoInputs.cache
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning12\Learning12homework\Learning12Homework\obj\Debug\net9.0\Learning12Homework.AssemblyInfo.cs
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning12\Learning12homework\Learning12Homework\obj\Debug\net9.0\Learning12Homework.csproj.CoreCompileInputs.cache
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning12\Learning12homework\Learning12Homework\obj\Debug\net9.0\Learning12Homework.sourcelink.json
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning12\Learning12homework\Learning12Homework\obj\Debug\net9.0\Learning12Homework.dll
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning12\Learning12homework\Learning12Homework\obj\Debug\net9.0\refint\Learning12Homework.dll
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning12\Learning12homework\Learning12Homework\obj\Debug\net9.0\Learning12Homework.pdb
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning12\Learning12homework\Learning12Homework\obj\Debug\net9.0\Learning12Homework.genruntimeconfig.cache
+C:\Users\george.sarris\Desktop\Training\C# Training\Learning12\Learning12homework\Learning12Homework\obj\Debug\net9.0\ref\Learning12Homework.dll

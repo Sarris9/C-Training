@@ -1,0 +1,15 @@
+C:\Users\george.sarris\source\repos\C-Training\Learning26\HomeWork\HomeWork26\bin\Debug\net9.0\HomeWork26.exe
+C:\Users\george.sarris\source\repos\C-Training\Learning26\HomeWork\HomeWork26\bin\Debug\net9.0\HomeWork26.deps.json
+C:\Users\george.sarris\source\repos\C-Training\Learning26\HomeWork\HomeWork26\bin\Debug\net9.0\HomeWork26.runtimeconfig.json
+C:\Users\george.sarris\source\repos\C-Training\Learning26\HomeWork\HomeWork26\bin\Debug\net9.0\HomeWork26.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning26\HomeWork\HomeWork26\bin\Debug\net9.0\HomeWork26.pdb
+C:\Users\george.sarris\source\repos\C-Training\Learning26\HomeWork\HomeWork26\obj\Debug\net9.0\HomeWork26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\george.sarris\source\repos\C-Training\Learning26\HomeWork\HomeWork26\obj\Debug\net9.0\HomeWork26.AssemblyInfoInputs.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning26\HomeWork\HomeWork26\obj\Debug\net9.0\HomeWork26.AssemblyInfo.cs
+C:\Users\george.sarris\source\repos\C-Training\Learning26\HomeWork\HomeWork26\obj\Debug\net9.0\HomeWork26.csproj.CoreCompileInputs.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning26\HomeWork\HomeWork26\obj\Debug\net9.0\HomeWork26.sourcelink.json
+C:\Users\george.sarris\source\repos\C-Training\Learning26\HomeWork\HomeWork26\obj\Debug\net9.0\HomeWork26.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning26\HomeWork\HomeWork26\obj\Debug\net9.0\refint\HomeWork26.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning26\HomeWork\HomeWork26\obj\Debug\net9.0\HomeWork26.pdb
+C:\Users\george.sarris\source\repos\C-Training\Learning26\HomeWork\HomeWork26\obj\Debug\net9.0\HomeWork26.genruntimeconfig.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning26\HomeWork\HomeWork26\obj\Debug\net9.0\ref\HomeWork26.dll

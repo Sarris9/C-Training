@@ -1,0 +1,15 @@
+C:\Users\george.sarris\source\repos\C-Training\Learning17\Learning17\bin\Debug\net9.0\Learning17.exe
+C:\Users\george.sarris\source\repos\C-Training\Learning17\Learning17\bin\Debug\net9.0\Learning17.deps.json
+C:\Users\george.sarris\source\repos\C-Training\Learning17\Learning17\bin\Debug\net9.0\Learning17.runtimeconfig.json
+C:\Users\george.sarris\source\repos\C-Training\Learning17\Learning17\bin\Debug\net9.0\Learning17.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning17\Learning17\bin\Debug\net9.0\Learning17.pdb
+C:\Users\george.sarris\source\repos\C-Training\Learning17\Learning17\obj\Debug\net9.0\Learning17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\george.sarris\source\repos\C-Training\Learning17\Learning17\obj\Debug\net9.0\Learning17.AssemblyInfoInputs.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning17\Learning17\obj\Debug\net9.0\Learning17.AssemblyInfo.cs
+C:\Users\george.sarris\source\repos\C-Training\Learning17\Learning17\obj\Debug\net9.0\Learning17.csproj.CoreCompileInputs.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning17\Learning17\obj\Debug\net9.0\Learning17.sourcelink.json
+C:\Users\george.sarris\source\repos\C-Training\Learning17\Learning17\obj\Debug\net9.0\Learning17.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning17\Learning17\obj\Debug\net9.0\refint\Learning17.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning17\Learning17\obj\Debug\net9.0\Learning17.pdb
+C:\Users\george.sarris\source\repos\C-Training\Learning17\Learning17\obj\Debug\net9.0\Learning17.genruntimeconfig.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning17\Learning17\obj\Debug\net9.0\ref\Learning17.dll

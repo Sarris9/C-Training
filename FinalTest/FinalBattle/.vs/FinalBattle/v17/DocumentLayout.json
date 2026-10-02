@@ -1,0 +1,615 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\gamerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:gamerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\backpack\\dagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:backpack\\dagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\backpack\\thecannonofconsolas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:backpack\\thecannonofconsolas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\characters\\theuncodedone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:characters\\theuncodedone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\backpack\\simulassoup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:backpack\\simulassoup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\characters\\mylaraandskorin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:characters\\mylaraandskorin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\enumeration\\damagetypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:enumeration\\damagetypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\backpack\\binaryhelm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:backpack\\binaryhelm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\backpack\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:backpack\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\backpack\\igear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:backpack\\igear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\enumeration\\zombieactiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:enumeration\\zombieactiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\helpingmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:helpingmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\characters\\trueprogrammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:characters\\trueprogrammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\characters\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:characters\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\characters\\stoneamarok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:characters\\stoneamarok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\characters\\skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:characters\\skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\characters\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:characters\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\enumeration\\gearattacksenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:enumeration\\gearattacksenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\iaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:iaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\characters\\vinfletcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:characters\\vinfletcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\backpack\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:backpack\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\enumeration\\skeletonactiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:enumeration\\skeletonactiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\backpack\\bladeofcrit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:backpack\\bladeofcrit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\enumeration\\dmgresistanceenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:enumeration\\dmgresistanceenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\backpack\\vinsbow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:backpack\\vinsbow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\enumeration\\theuncodedoneactiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:enumeration\\theuncodedoneactiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\backpack\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:backpack\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\enumeration\\stoneamaroactiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:enumeration\\stoneamaroactiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\enumeration\\heroactiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:enumeration\\heroactiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\backpack\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:backpack\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\finaltest\\finalbattle\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F6ED06-2964-4D8A-A76E-BCFC7F907AC8}|FinalBattle.csproj|solutionrelative:menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:12:33.014Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Characters\\Monster.cs",
+              "RelativeDocumentMoniker": "Characters\\Monster.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Characters\\Monster.cs",
+              "RelativeToolTip": "Characters\\Monster.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:16:30.652Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Skeleton.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Characters\\Skeleton.cs",
+              "RelativeDocumentMoniker": "Characters\\Skeleton.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Characters\\Skeleton.cs",
+              "RelativeToolTip": "Characters\\Skeleton.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:23:18.39Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TrueProgrammer.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Characters\\TrueProgrammer.cs",
+              "RelativeDocumentMoniker": "Characters\\TrueProgrammer.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Characters\\TrueProgrammer.cs",
+              "RelativeToolTip": "Characters\\TrueProgrammer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T13:55:00.19Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TheUncodedOne.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Characters\\TheUncodedOne.cs",
+              "RelativeDocumentMoniker": "Characters\\TheUncodedOne.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Characters\\TheUncodedOne.cs",
+              "RelativeToolTip": "Characters\\TheUncodedOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T13:56:34.404Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Action.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Action.cs",
+              "RelativeDocumentMoniker": "Action.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Action.cs",
+              "RelativeToolTip": "Action.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwEEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T08:32:55.823Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HelpingMethods.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\HelpingMethods.cs",
+              "RelativeDocumentMoniker": "HelpingMethods.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\HelpingMethods.cs",
+              "RelativeToolTip": "HelpingMethods.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAwPUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:00:38.451Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ZombieActionTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Enumeration\\ZombieActionTypeEnum.cs",
+              "RelativeDocumentMoniker": "Enumeration\\ZombieActionTypeEnum.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Enumeration\\ZombieActionTypeEnum.cs",
+              "RelativeToolTip": "Enumeration\\ZombieActionTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T12:14:49.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Characters\\Zombie.cs",
+              "RelativeDocumentMoniker": "Characters\\Zombie.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Characters\\Zombie.cs",
+              "RelativeToolTip": "Characters\\Zombie.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T12:12:46.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BladeOfCrit.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\BladeOfCrit.cs",
+              "RelativeDocumentMoniker": "Backpack\\BladeOfCrit.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\BladeOfCrit.cs",
+              "RelativeToolTip": "Backpack\\BladeOfCrit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T11:59:57.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BinaryHelm.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\BinaryHelm.cs",
+              "RelativeDocumentMoniker": "Backpack\\BinaryHelm.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\BinaryHelm.cs",
+              "RelativeToolTip": "Backpack\\BinaryHelm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:29:28.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TheCannonOfConsolas.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\TheCannonOfConsolas.cs",
+              "RelativeDocumentMoniker": "Backpack\\TheCannonOfConsolas.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\TheCannonOfConsolas.cs",
+              "RelativeToolTip": "Backpack\\TheCannonOfConsolas.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:44:54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MylaraAndSkorin.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Characters\\MylaraAndSkorin.cs",
+              "RelativeDocumentMoniker": "Characters\\MylaraAndSkorin.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Characters\\MylaraAndSkorin.cs",
+              "RelativeToolTip": "Characters\\MylaraAndSkorin.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:42:57.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DamageTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Enumeration\\DamageTypeEnum.cs",
+              "RelativeDocumentMoniker": "Enumeration\\DamageTypeEnum.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Enumeration\\DamageTypeEnum.cs",
+              "RelativeToolTip": "Enumeration\\DamageTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T12:36:23.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameRule.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\GameRule.cs",
+              "RelativeDocumentMoniker": "GameRule.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\GameRule.cs",
+              "RelativeToolTip": "GameRule.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAqwCsBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:50:39.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VinsBow.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\VinsBow.cs",
+              "RelativeDocumentMoniker": "Backpack\\VinsBow.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\VinsBow.cs",
+              "RelativeToolTip": "Backpack\\VinsBow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:50:18.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\Sword.cs",
+              "RelativeDocumentMoniker": "Backpack\\Sword.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\Sword.cs",
+              "RelativeToolTip": "Backpack\\Sword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:50:09.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IItem.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\IItem.cs",
+              "RelativeDocumentMoniker": "Backpack\\IItem.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\IItem.cs",
+              "RelativeToolTip": "Backpack\\IItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:49:35.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HealthPotion.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\HealthPotion.cs",
+              "RelativeDocumentMoniker": "Backpack\\HealthPotion.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\HealthPotion.cs",
+              "RelativeToolTip": "Backpack\\HealthPotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:49:17.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dagger.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\Dagger.cs",
+              "RelativeDocumentMoniker": "Backpack\\Dagger.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\Dagger.cs",
+              "RelativeToolTip": "Backpack\\Dagger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:49:08.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGear.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\IGear.cs",
+              "RelativeDocumentMoniker": "Backpack\\IGear.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\IGear.cs",
+              "RelativeToolTip": "Backpack\\IGear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:49:02.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAction.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\IAction.cs",
+              "RelativeDocumentMoniker": "IAction.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\IAction.cs",
+              "RelativeToolTip": "IAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:48:43.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\Inventory.cs",
+              "RelativeDocumentMoniker": "Backpack\\Inventory.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\Inventory.cs",
+              "RelativeToolTip": "Backpack\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:47:56.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StoneAmaroActionTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Enumeration\\StoneAmaroActionTypeEnum.cs",
+              "RelativeDocumentMoniker": "Enumeration\\StoneAmaroActionTypeEnum.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Enumeration\\StoneAmaroActionTypeEnum.cs",
+              "RelativeToolTip": "Enumeration\\StoneAmaroActionTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T10:06:11.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TheUncodedOneActionTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Enumeration\\TheUncodedOneActionTypeEnum.cs",
+              "RelativeDocumentMoniker": "Enumeration\\TheUncodedOneActionTypeEnum.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Enumeration\\TheUncodedOneActionTypeEnum.cs",
+              "RelativeToolTip": "Enumeration\\TheUncodedOneActionTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T10:05:06.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StoneAmarok.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Characters\\StoneAmarok.cs",
+              "RelativeDocumentMoniker": "Characters\\StoneAmarok.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Characters\\StoneAmarok.cs",
+              "RelativeToolTip": "Characters\\StoneAmarok.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T09:43:01.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DMGResistanceEnum.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Enumeration\\DMGResistanceEnum.cs",
+              "RelativeDocumentMoniker": "Enumeration\\DMGResistanceEnum.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Enumeration\\DMGResistanceEnum.cs",
+              "RelativeToolTip": "Enumeration\\DMGResistanceEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T09:32:53.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VinFletcher.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Characters\\VinFletcher.cs",
+              "RelativeDocumentMoniker": "Characters\\VinFletcher.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Characters\\VinFletcher.cs",
+              "RelativeToolTip": "Characters\\VinFletcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T09:55:15.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GearAttacksEnum.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Enumeration\\GearAttacksEnum.cs",
+              "RelativeDocumentMoniker": "Enumeration\\GearAttacksEnum.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Enumeration\\GearAttacksEnum.cs",
+              "RelativeToolTip": "Enumeration\\GearAttacksEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T13:45:07.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimulasSoup.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\SimulasSoup.cs",
+              "RelativeDocumentMoniker": "Backpack\\SimulasSoup.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Backpack\\SimulasSoup.cs",
+              "RelativeToolTip": "Backpack\\SimulasSoup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:06:14.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\MenuItem.cs",
+              "RelativeDocumentMoniker": "MenuItem.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\MenuItem.cs",
+              "RelativeToolTip": "MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T12:43:10.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SkeletonActionTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Enumeration\\SkeletonActionTypeEnum.cs",
+              "RelativeDocumentMoniker": "Enumeration\\SkeletonActionTypeEnum.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Enumeration\\SkeletonActionTypeEnum.cs",
+              "RelativeToolTip": "Enumeration\\SkeletonActionTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:29:03.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HeroActionTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Enumeration\\HeroActionTypeEnum.cs",
+              "RelativeDocumentMoniker": "Enumeration\\HeroActionTypeEnum.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\FinalTest\\FinalBattle\\Enumeration\\HeroActionTypeEnum.cs",
+              "RelativeToolTip": "Enumeration\\HeroActionTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T14:21:51.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

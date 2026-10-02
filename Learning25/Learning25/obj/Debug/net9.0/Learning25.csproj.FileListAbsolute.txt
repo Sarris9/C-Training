@@ -1,0 +1,15 @@
+C:\Users\george.sarris\source\repos\C-Training\Learning25\Learning25\obj\Debug\net9.0\Learning25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\george.sarris\source\repos\C-Training\Learning25\Learning25\obj\Debug\net9.0\Learning25.AssemblyInfoInputs.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning25\Learning25\obj\Debug\net9.0\Learning25.AssemblyInfo.cs
+C:\Users\george.sarris\source\repos\C-Training\Learning25\Learning25\obj\Debug\net9.0\Learning25.csproj.CoreCompileInputs.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning25\Learning25\obj\Debug\net9.0\Learning25.sourcelink.json
+C:\Users\george.sarris\source\repos\C-Training\Learning25\Learning25\bin\Debug\net9.0\Learning25.exe
+C:\Users\george.sarris\source\repos\C-Training\Learning25\Learning25\bin\Debug\net9.0\Learning25.deps.json
+C:\Users\george.sarris\source\repos\C-Training\Learning25\Learning25\bin\Debug\net9.0\Learning25.runtimeconfig.json
+C:\Users\george.sarris\source\repos\C-Training\Learning25\Learning25\bin\Debug\net9.0\Learning25.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning25\Learning25\bin\Debug\net9.0\Learning25.pdb
+C:\Users\george.sarris\source\repos\C-Training\Learning25\Learning25\obj\Debug\net9.0\Learning25.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning25\Learning25\obj\Debug\net9.0\refint\Learning25.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning25\Learning25\obj\Debug\net9.0\Learning25.pdb
+C:\Users\george.sarris\source\repos\C-Training\Learning25\Learning25\obj\Debug\net9.0\Learning25.genruntimeconfig.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning25\Learning25\obj\Debug\net9.0\ref\Learning25.dll

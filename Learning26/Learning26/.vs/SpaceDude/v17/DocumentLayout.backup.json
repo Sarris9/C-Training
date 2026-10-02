@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\Learning26\\Learning26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DBB0E-FD08-4165-BFF6-7BF36F9B57CE}|..\\SpaceDude.Common\\SpaceDudeRPG.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\learning26\\spacedude.common\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DBB0E-FD08-4165-BFF6-7BF36F9B57CE}|..\\SpaceDude.Common\\SpaceDudeRPG.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\learning26\\spacedude.common\\dudeconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A24655-C53D-42D7-A97A-D32645390FDB}|SpaceDude.Common.csproj|c:\\users\\george.sarris\\source\\repos\\c-training\\learning26\\learning26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A24655-C53D-42D7-A97A-D32645390FDB}|SpaceDude.Common.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\Learning26\\SpaceDude.Common\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SpaceDude.Common\\Program.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\Learning26\\SpaceDude.Common\\Program.cs",
+              "RelativeToolTip": "..\\SpaceDude.Common\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T07:18:24.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\Learning26\\Learning26\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\Learning26\\Learning26\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:26:25.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DudeConsole.cs",
+              "DocumentMoniker": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\Learning26\\SpaceDude.Common\\DudeConsole.cs",
+              "RelativeDocumentMoniker": "..\\SpaceDude.Common\\DudeConsole.cs",
+              "ToolTip": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\Learning26\\SpaceDude.Common\\DudeConsole.cs",
+              "RelativeToolTip": "..\\SpaceDude.Common\\DudeConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:25:00.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\george.sarris\source\repos\C-Training\FinalTest\FinalBattle\bin\Release\net9.0\FinalBattle.exe
+C:\Users\george.sarris\source\repos\C-Training\FinalTest\FinalBattle\bin\Release\net9.0\FinalBattle.deps.json
+C:\Users\george.sarris\source\repos\C-Training\FinalTest\FinalBattle\bin\Release\net9.0\FinalBattle.runtimeconfig.json
+C:\Users\george.sarris\source\repos\C-Training\FinalTest\FinalBattle\bin\Release\net9.0\FinalBattle.dll
+C:\Users\george.sarris\source\repos\C-Training\FinalTest\FinalBattle\bin\Release\net9.0\FinalBattle.pdb
+C:\Users\george.sarris\source\repos\C-Training\FinalTest\FinalBattle\obj\Release\net9.0\FinalBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\george.sarris\source\repos\C-Training\FinalTest\FinalBattle\obj\Release\net9.0\FinalBattle.AssemblyInfoInputs.cache
+C:\Users\george.sarris\source\repos\C-Training\FinalTest\FinalBattle\obj\Release\net9.0\FinalBattle.AssemblyInfo.cs
+C:\Users\george.sarris\source\repos\C-Training\FinalTest\FinalBattle\obj\Release\net9.0\FinalBattle.csproj.CoreCompileInputs.cache
+C:\Users\george.sarris\source\repos\C-Training\FinalTest\FinalBattle\obj\Release\net9.0\FinalBattle.sourcelink.json
+C:\Users\george.sarris\source\repos\C-Training\FinalTest\FinalBattle\obj\Release\net9.0\FinalBattle.dll
+C:\Users\george.sarris\source\repos\C-Training\FinalTest\FinalBattle\obj\Release\net9.0\refint\FinalBattle.dll
+C:\Users\george.sarris\source\repos\C-Training\FinalTest\FinalBattle\obj\Release\net9.0\FinalBattle.pdb
+C:\Users\george.sarris\source\repos\C-Training\FinalTest\FinalBattle\obj\Release\net9.0\FinalBattle.genruntimeconfig.cache
+C:\Users\george.sarris\source\repos\C-Training\FinalTest\FinalBattle\obj\Release\net9.0\ref\FinalBattle.dll

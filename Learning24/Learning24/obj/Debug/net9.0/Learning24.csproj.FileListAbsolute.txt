@@ -1,0 +1,15 @@
+C:\Users\george.sarris\source\repos\C-Training\Learning24\Learning24\bin\Debug\net9.0\Learning24.exe
+C:\Users\george.sarris\source\repos\C-Training\Learning24\Learning24\bin\Debug\net9.0\Learning24.deps.json
+C:\Users\george.sarris\source\repos\C-Training\Learning24\Learning24\bin\Debug\net9.0\Learning24.runtimeconfig.json
+C:\Users\george.sarris\source\repos\C-Training\Learning24\Learning24\bin\Debug\net9.0\Learning24.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning24\Learning24\bin\Debug\net9.0\Learning24.pdb
+C:\Users\george.sarris\source\repos\C-Training\Learning24\Learning24\obj\Debug\net9.0\Learning24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\george.sarris\source\repos\C-Training\Learning24\Learning24\obj\Debug\net9.0\Learning24.AssemblyInfoInputs.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning24\Learning24\obj\Debug\net9.0\Learning24.AssemblyInfo.cs
+C:\Users\george.sarris\source\repos\C-Training\Learning24\Learning24\obj\Debug\net9.0\Learning24.csproj.CoreCompileInputs.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning24\Learning24\obj\Debug\net9.0\Learning24.sourcelink.json
+C:\Users\george.sarris\source\repos\C-Training\Learning24\Learning24\obj\Debug\net9.0\Learning24.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning24\Learning24\obj\Debug\net9.0\refint\Learning24.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning24\Learning24\obj\Debug\net9.0\Learning24.pdb
+C:\Users\george.sarris\source\repos\C-Training\Learning24\Learning24\obj\Debug\net9.0\Learning24.genruntimeconfig.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning24\Learning24\obj\Debug\net9.0\ref\Learning24.dll

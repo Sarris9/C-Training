@@ -1,0 +1,15 @@
+C:\Users\george.sarris\source\repos\C-Training\Learning20\Learning20\bin\Debug\net9.0\Learning20.exe
+C:\Users\george.sarris\source\repos\C-Training\Learning20\Learning20\bin\Debug\net9.0\Learning20.deps.json
+C:\Users\george.sarris\source\repos\C-Training\Learning20\Learning20\bin\Debug\net9.0\Learning20.runtimeconfig.json
+C:\Users\george.sarris\source\repos\C-Training\Learning20\Learning20\bin\Debug\net9.0\Learning20.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning20\Learning20\bin\Debug\net9.0\Learning20.pdb
+C:\Users\george.sarris\source\repos\C-Training\Learning20\Learning20\obj\Debug\net9.0\Learning20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\george.sarris\source\repos\C-Training\Learning20\Learning20\obj\Debug\net9.0\Learning20.AssemblyInfoInputs.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning20\Learning20\obj\Debug\net9.0\Learning20.AssemblyInfo.cs
+C:\Users\george.sarris\source\repos\C-Training\Learning20\Learning20\obj\Debug\net9.0\Learning20.csproj.CoreCompileInputs.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning20\Learning20\obj\Debug\net9.0\Learning20.sourcelink.json
+C:\Users\george.sarris\source\repos\C-Training\Learning20\Learning20\obj\Debug\net9.0\Learning20.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning20\Learning20\obj\Debug\net9.0\refint\Learning20.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning20\Learning20\obj\Debug\net9.0\Learning20.pdb
+C:\Users\george.sarris\source\repos\C-Training\Learning20\Learning20\obj\Debug\net9.0\Learning20.genruntimeconfig.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning20\Learning20\obj\Debug\net9.0\ref\Learning20.dll

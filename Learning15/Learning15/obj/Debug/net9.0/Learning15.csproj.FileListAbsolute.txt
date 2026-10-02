@@ -1,0 +1,15 @@
+C:\Users\george.sarris\source\repos\C-Training\Learning15\Learning15\bin\Debug\net9.0\Learning15.exe
+C:\Users\george.sarris\source\repos\C-Training\Learning15\Learning15\bin\Debug\net9.0\Learning15.deps.json
+C:\Users\george.sarris\source\repos\C-Training\Learning15\Learning15\bin\Debug\net9.0\Learning15.runtimeconfig.json
+C:\Users\george.sarris\source\repos\C-Training\Learning15\Learning15\bin\Debug\net9.0\Learning15.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning15\Learning15\bin\Debug\net9.0\Learning15.pdb
+C:\Users\george.sarris\source\repos\C-Training\Learning15\Learning15\obj\Debug\net9.0\Learning15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\george.sarris\source\repos\C-Training\Learning15\Learning15\obj\Debug\net9.0\Learning15.AssemblyInfoInputs.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning15\Learning15\obj\Debug\net9.0\Learning15.AssemblyInfo.cs
+C:\Users\george.sarris\source\repos\C-Training\Learning15\Learning15\obj\Debug\net9.0\Learning15.csproj.CoreCompileInputs.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning15\Learning15\obj\Debug\net9.0\Learning15.sourcelink.json
+C:\Users\george.sarris\source\repos\C-Training\Learning15\Learning15\obj\Debug\net9.0\Learning15.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning15\Learning15\obj\Debug\net9.0\refint\Learning15.dll
+C:\Users\george.sarris\source\repos\C-Training\Learning15\Learning15\obj\Debug\net9.0\Learning15.pdb
+C:\Users\george.sarris\source\repos\C-Training\Learning15\Learning15\obj\Debug\net9.0\Learning15.genruntimeconfig.cache
+C:\Users\george.sarris\source\repos\C-Training\Learning15\Learning15\obj\Debug\net9.0\ref\Learning15.dll

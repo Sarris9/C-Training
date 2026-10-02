@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oQx29xlq+dk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\george.sarris\\source\\repos\\C-Training\\Learning26\\HomeWorkPart2_26\\HomeWorkPart2_26.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\george.sarris\\.nuget\\packages\\humanizer.core\\3.0.10\\humanizer.core.3.0.10.nupkg.sha512",
+    "C:\\Users\\george.sarris\\.nuget\\packages\\humanizer.core.el\\3.0.10\\humanizer.core.el.3.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
